@@ -17,8 +17,6 @@
 
 - ⚡ Fun fact **"I can resist everything except temptation"**
 
-![](https://github-readme-stats.vercel.app/api?username=jmfaheemhassan&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jmfaheemhassan&theme=chartreuse-dark&hide_border=false)<br/>
 
 
 <h3 align="left">Connect with me:</h3>
