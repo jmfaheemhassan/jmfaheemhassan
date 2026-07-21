@@ -23,7 +23,7 @@
 
 
 
-![Stats](https://github-readme-stats-eight-tawny-90.vercel.app/api?username=jmfaheemhassan&show_icons=true&theme=radical)
+
 - 🌱 I’m currently learning **Computer Fundamentals & Mildly Interest Cyber security.**
 
 - 📫 How to reach me **jmfahimhasan52@gmail.com**
