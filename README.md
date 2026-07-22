@@ -20,12 +20,11 @@
     </td>
     <td align="right">
       <a href="https://linkedin.com/in/j-m-fahim-hasan" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="j-m-fahim-hasan" height="30" width="40" />
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="j-m-fahim-hasan" />
       </a>
     </td>
   </tr>
 </table>
-
                     
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jmfaheemhassan&label=Profile%20views&color=0e75b6&style=flat" alt="jmfaheemhassan" /> </p>
 
