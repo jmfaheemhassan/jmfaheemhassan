@@ -1,0 +1,14 @@
+{
+  "name": "github-stats-generator",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "stats": "node scripts/stats.js",
+    "streak": "node scripts/streak.js",
+    "languages": "node scripts/languages.js"
+  },
+  "dependencies": {
+    "@octokit/graphql": "^8.0.0",
+    "fs-extra": "^11.2.0"
+  }
+}
