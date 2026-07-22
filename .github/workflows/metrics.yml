@@ -20,7 +20,6 @@ jobs:
           user: jmfaheemhassan
 
           filename: github-metrics.svg
-
           committer_branch: main
           output_action: commit
 
@@ -33,15 +32,28 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 15
 
           plugin_isocalendar: yes
+
+          plugin_habits: yes
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          plugin_followup: yes
+          plugin_followup_sections: repositories
 
           plugin_achievements: yes
           plugin_achievements_threshold: C
 
-          plugin_followup: yes
-
-          plugin_habits: yes
-          plugin_habits_days: 30
-
           plugin_stars: yes
+
+          plugin_repositories: yes
+          plugin_repositories_featured: jmfaheemhassan
+
+          plugin_topics: yes
+
+          plugin_lines: yes
+
+          plugin_traffic: yes
