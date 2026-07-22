@@ -9,7 +9,30 @@
 <p align="center"> <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" 
                     width="450" height="200"
                     alt="Pixel Art Animation" /> </p> 
+
+
+<table align="center">
+  <tr>
+    <td align="left">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,linux" />
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://linkedin.com/in/j-m-fahim-hasan" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="j-m-fahim-hasan" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+                    
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jmfaheemhassan&label=Profile%20views&color=0e75b6&style=flat" alt="jmfaheemhassan" /> </p>
+
+
+- 🌱 I’m currently learning **Computer Fundamentals & Mildly Interest Cyber security.**
+- ⚡ Fun fact **"EVERY ILLEGAL MOVE TURNS LEGAL WHEN THE RIGHT LAWYER SHAKES YOUR HAND"**
+
 
 
 
@@ -29,27 +52,13 @@
 
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jmfaheemhassan/jmfaheemhassan/output/github-contribution-grid-snake-dark.svg" alt="snake graph" />
+</div>
 
 
 
 
-- 🌱 I’m currently learning **Computer Fundamentals & Mildly Interest Cyber security.**
-
-- 📫 How to reach me **jmfahimhasan52@gmail.com**
-
-- ⚡ Fun fact **"I can resist everything except temptation"**
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://fb.com/j.mfahimhasan3442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="j.mfahimhasan3442" height="30" width="40" /></a>
-<a href="https://instagram.com/j.mfahimhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j.mfahimhasan" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 
 
