@@ -13,12 +13,16 @@ jobs:
       contents: write
 
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
-
           token: ${{ secrets.GH_TOKEN }}
           user: jmfaheemhassan
+
+          filename: github-metrics.svg
+
+          committer_branch: main
+          output_action: commit
 
           template: classic
           base: header, activity, community, repositories, metadata
@@ -36,7 +40,6 @@ jobs:
           plugin_achievements_threshold: C
 
           plugin_followup: yes
-          plugin_followup_sections: repositories
 
           plugin_habits: yes
           plugin_habits_days: 30
