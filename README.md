@@ -32,25 +32,6 @@
 - 🌱 I’m currently learning **Computer Fundamentals & Mildly Interest Cyber security.**
 - ⚡ Fun fact **"EVERY ILLEGAL MOVE TURNS LEGAL WHEN THE RIGHT LAWYER SHAKES YOUR HAND"**
 
-
-
-
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-
-  <div style="border: 2px solid #ff4ecd; border-radius: 12px; padding: 15px; width: fit-content;">
-    <img src="https://github-readme-stats-j7f.vercel.app/api?username=jmfaheemhassan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </div>
-
-  <div style="border: 2px solid #00ffe7; border-radius: 12px; padding: 15px; width: fit-content;">
-    <img src="https://github-readme-stats-j7f.vercel.app/api/top-langs/?username=jmfaheemhassan&layout=compact&theme=radical" alt="Top Languages" />
-  </div>
-
-  <div style="border: 2px solid #ffd700; border-radius: 12px; padding: 15px; width: fit-content;">
-    <img src="https://github-readme-streak-stats-j7f.vercel.app/?user=jmfaheemhassan&theme=radical" alt="GitHub Streak" />
-  </div>
-
-</div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/jmfaheemhassan/jmfaheemhassan/output/github-contribution-grid-snake-dark.svg" alt="snake graph" />
 </div>
