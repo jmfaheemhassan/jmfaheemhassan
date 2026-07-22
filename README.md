@@ -24,18 +24,24 @@
       </a>
     </td>
   </tr>
-</table>
-                    
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jmfaheemhassan&label=Profile%20views&color=0e75b6&style=flat" alt="jmfaheemhassan" /> </p>
+</table>  
 
-
-- 🌱 I’m currently learning **Computer Fundamentals & Mildly Interest Cyber security.**
-- ⚡ Fun fact **"EVERY ILLEGAL MOVE TURNS LEGAL WHEN THE RIGHT LAWYER SHAKES YOUR HAND"**
-
+                 
 <div align="center">
   <img src="https://raw.githubusercontent.com/jmfaheemhassan/jmfaheemhassan/output/github-contribution-grid-snake-dark.svg" alt="snake graph" />
 </div>
 
+
+
+
+   <p align="center">
+  <img src="https://raw.githubusercontent.com/jmfaheemhassan/jmfaheemhassan/main/github-metrics.svg" />
+</p>
+
+
+
+- 🌱 I’m currently learning **Computer Fundamentals & Mildly Interest Cyber security.**
+- ⚡ Fun fact **"EVERY ILLEGAL MOVE TURNS LEGAL WHEN THE RIGHT LAWYER SHAKES YOUR HAND"**
 
 
 
