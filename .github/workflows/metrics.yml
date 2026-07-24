@@ -1,83 +1,48 @@
-name: GitHub Metrics
-
+name: Metrics
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: '0 0 * * *'
   workflow_dispatch:
+  push:
+    branches: [main]
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
-
     steps:
-      - name: Generate Metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GH_TOKEN }}
-          user: jmfaheemhassan
-
-          filename: github-metrics.svg
-          committer_branch: main
-          output_action: commit
-
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: তোমার_ইউজারনেম
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
 
-          config_timezone: Asia/Dhaka
-
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 15
-
+          # Contribution calendar + streak
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
+          # Commit activity per time/day
           plugin_habits: yes
-          plugin_habits_days: 30
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
 
-          plugin_followup: yes
-          plugin_followup_sections: repositories
+          # Top / most used languages
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_details: percentage
 
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
+          # Mastered technologies (skill icons)
+          plugin_stack: yes
+          plugin_stack_tags: yes
 
-          plugin_stars: yes
-
-          plugin_repositories: yes
-          plugin_repositories_featured: jmfaheemhassan
-
-          plugin_topics: yes
-
-          plugin_lines: yes
-
-          plugin_traffic: yes
-
-          # ==================== GitHub Dark Theme ====================
-          extras_css: |
-            :root {
-              --color-text-primary: #c9d1d9;
-              --color-text-secondary: #8b949e;
-              --color-bg-primary: #0d1117;
-              --color-bg-secondary: #161b22;
-              --color-border-primary: #30363d;
-              --color-border-secondary: #21262d;
-            }
-
-            body, .metrics, svg {
-              background-color: #0d1117 !important;
-              color: #c9d1d9 !important;
-            }
-
-            .field, h2, h3, text {
-              color: #c9d1d9 !important;
-            }
-
-            .border {
-              stroke: #30363d !important;
-            }
+          # PageSpeed Insights (দরকার হলে নিজের সাইট URL দাও)
+          # plugin_pagespeed: yes
+          # plugin_pagespeed_detailed: yes
+          # plugin_pagespeed_url: https://jmfaheemhassan.io
