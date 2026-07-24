@@ -6,9 +6,23 @@
   Computer Science & Engineering Student From Bangladesh
 </h3>
 <!-- gif image-->
+
+
+
+- 🌱 I’m currently learning **Computer Fundamentals & Mildly Interest Cyber security.**
+- ⚡ Fun fact **"EVERY ILLEGAL MOVE TURNS LEGAL WHEN THE RIGHT LAWYER SHAKES YOUR HAND"**
+
 <p align="center"> <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" 
                     width="450" height="200"
                     alt="Pixel Art Animation" /> </p> 
+
+
+
+
+                 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jmfaheemhassan/jmfaheemhassan/output/github-contribution-grid-snake-dark.svg" alt="snake graph" />
+</div>
 
 
 <table align="center">
@@ -26,22 +40,10 @@
   </tr>
 </table>  
 
-                 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jmfaheemhassan/jmfaheemhassan/output/github-contribution-grid-snake-dark.svg" alt="snake graph" />
-</div>
-
-
-
-
    <p align="center">
   <img src="https://raw.githubusercontent.com/jmfaheemhassan/jmfaheemhassan/main/github-metrics.svg" />
 </p>
 
-
-
-- 🌱 I’m currently learning **Computer Fundamentals & Mildly Interest Cyber security.**
-- ⚡ Fun fact **"EVERY ILLEGAL MOVE TURNS LEGAL WHEN THE RIGHT LAWYER SHAKES YOUR HAND"**
 
 
 
